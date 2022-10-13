@@ -147,9 +147,9 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 
 ![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTime%201.jpeg)
 
-![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTime%201.jpeg)
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTime%202.jpeg)
 
-![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTime%201.jpeg)
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTime%203.jpeg)
   
 - Insight :
   - Dari 1470 karyawan diperusahaan, ada 416 karyawan yang bekerja over time atau setara 28,3% dan ada 71,7% karyawan yang bekerja tidak overtime.
@@ -164,3 +164,14 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
   
 - Insight :
   - Karyawan yang banyak resign paling banyak berasal dari karyawan yang jarang melakukan perjalan dinas 156 orang dengan persentase 10,6%, karyawan yang sering melakukan perjalanan dinas yang resign sebanyak 69 orang dengan persetase 4,7% dan karyawan yang tidak pernah melakukan perjalan dinas yang resign ada 12 orang dengan persentase 0,8%.
+
+
+##### PERFOMANCE RATING
+
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20PerformanceRating%201.jpeg)
+
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20PerformanceRating%202.jpeg)
+
+- Insight :
+  - Karyawan yang resign paling banyak dari perfoma yang bagus sebanyak 13,6% sedangkan karyawan dengan perfoma sangat bagus memiliki persentase resign lebih sedikit dengan persentase 2,5%.
+  - Jika dilihat dari distribusi data, karyawan yang resign banyak pada perfoma rating 3 atau performa yang bagus dan mulai menurun tingkat karyawan resign pada performa yang sangat bagus.
