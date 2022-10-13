@@ -110,3 +110,31 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
   - Perusahaan dapat mempertimbangkan untuk kenaikan gaji karyawan di atas 10% dan berikan bonus/ insentif kepada karyawan yang masih bekerja di kantor.
 ### Time Related :
   - Perusahaan dapat meningkatkan pelatihan kepada karyawan minimal 1 tahun 1x terutama untuk karyawan yang baru bekerja diperusahaan ini, untuk karyawan yang memiliki perfoma bagus perusahaan dapat mempertimbangkan untuk menaikan jabatan baru minimal 1 tahun bekerja diperusahaan atau 1 tahun mereka bekerja dari posisi sekarang. 
+
+**✨ Visualization Data Employee Analysis Attrition Report** <br>
+<br>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
+
+
+**💬 Ask me about anything, I'll be happy to help!** <br>
+**💬 My inbox is always open, Contact me**
+<br>
+<br> 
+  </a>
+  <a href="mailto:m.alfarisy797@gmail.com">
+    <img align="left" alt="Muhammad Al-farisy | Gmail" width="26px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-alfarisy97/">
+    <img align="left" alt="Muhamamd Al-farisy | Instagram" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+  </a>
+  <a href="https://www.instagram.com/inifaris_____/">
+    <img align="left" alt="Muhammad Al-farisy | Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147">
+    <img align="left" alt="Muhammad Al-farisy | Tableau" width="24px" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" />
+  </a>
+  
+<br>
+<br>
+
+⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
