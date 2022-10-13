@@ -59,43 +59,69 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 |4|Very High|4|Best| | | | | | |
 
 ## DATA ANALYST
-<hr>
 
-### BASIC INFO :
+### **Kesimpulan Exploratory Data Analyst**
 
-##### AGE :
+#### Basic Info :
+  1. `Age :` Karyawan yang bekerja di perusahaan berumur paling rendah 18 tahun dan paling tinggi 60 tahun, dari keseluruhan umur karyawan yang paling banyak resign mulai dari umur 29 tahun sampai umur 31 tahun.
+  2. `Gender:` Total karyawan berjenis kelamin pria (60%) lebih banyak dibandingkan karyawan wanita (40%) dan untuk karyawan yang resign paling banyak adalah pria dengan persentase 10,2%.
+  3. `Distance From Home :` Jarak rumah karyawan ke kantor mulai dari 1 km sampai dengan 29km dan untuk karyawan yang paling banyak resign yang jarak rumahnya lebih dari 10km.
+  4. `Education :` Perusahaan memiliki karyawan dengan pendidikan bacher 69,7% lebih banyak dibandingkan karyawan baground master dan doctor, berdasarkan pendidikan karyawan yang memiliki pendidikan bachelor lebih cenderung resign.
+  5. `Marital Status :` Perusahaan memiliki karyawan paling banyak yang berstatus single lebih banyak 45,8% dan karyawan yang resign juga paling banyak berstatus single sebanyak 8,2% yang resign.
+#
+### Work Info :
+#
+  7. `Departement : ` Total karyawan pada department Sales 446 karyawan, department Research & Development 961 dan department Human Resources 63 orang dan karyawan yang paling banyak resign dari department Research & Development 9,0%.
+  8. `Job Role : ` Banyak karyawan yang resign dari Job Role Laboratory Technician sebanyak 4,2%.
+  9. `Over Time : ` Karyawan yang bekerja lembur sebanyak 416 orang dengan persentase 28,3% dan yang tidak bekerja lembur 1.054 dengan persentase 71,7% namun dari 28,3% karyawan memilih resign banyak dari yang bekerja lembur dengan persentase 8,6%.
+  10. `Business Travel : ` Karyawan yang resign banyak berasal dari karyawan yang jarang melakukan perjalanan dinas sebanyak 156 orang dengan persentase 10,6%.
+  11. `Perfomance Rating : ` Karyawan yang resign dari perusahaan banyak berasal dari karyawan yang memiliki performa bagus sebanyak 13,6% namun karyawanyang memiliki perfoma bagus yang tetap menentap diperusahaan lebih banyak 71,0%.
+  12. `Stock Option Level : ` Karyawan yang resign paling banyak yang tidak mendapatkan saham perusahan sebanyak 10,5%, sedangkan karyawan yang mendapatkan saham perusahaan lebih banyak memilih menetap diperusahaan.
+  13. `Job Involvement : ` Karyawan dengan tanggung jawab yang rendah paling banyak resign sedangkan karyawan yang paling sedikit resign pada karyawan yang memiliki tanggung jawab yang tinggi.
+#
+#### Satiscfaction :
+#
+  15. `Worklifebalance : ` Banyak karyawan yang masih bekerja di perusahaan karena mandapatkan work life balance yang tinggi dibandingkan karyawan yang resign memiliki work life balance yang rendah.
+  16. `Job Satiscfaction: ` Banyak karyawan yang memiliki kepuasan bekerja sangat tinggi sebanyak 459 karyawan dengan persentase 31,2% dan memilih bertahan diperusahaan sedangkan karyawan yang memiliki persentase kerja yang rendah memilih  resign dari perusahaan.
+  17. `Relationship Satisfaction : ` Rekan kerja yang memiliki hubungan baik dengan rekan kerja memiliki persentase tertinggi untuk resign dibandingkan rekan kerja yang memiliki hubungan dengan kerja yang rendah.
+  18. `Environtment Employee`, Karyawan yang banyak resign berasal dari lingkungan kerja yang kurang nyaman (rendah), sedangkan karyawan yang memiliki lingkungan kerja yang bagus cenderung memilih bertahan di perusahaan.
+#
+#### Salary Related :
+#
+  20. `Monthly Income :` Karyawan cenderung resign jika perndapatan perbulan mereka dibawah 5000USD, sedangkan karyawan yang perndapatan perbulan diatas 5000USD lebih cenderung bertahan di perusahaan. 
+  21. `Monthly Rate :` Karyawan cenderung resign pada gaji 10000USD sampai dengan dibawah 15000USD.
+  22. `Daily Rate: ` Karyawan cenderung resign jika hitungan upah harian mereka dibawah 500USD.
+  23. `Hourly Rate :` Banyak karyawan yang resign pada bayaran perjam mereka sekitar 40USD sampai dengan kurang dari 80USD.
+  24.  `Percent Salary Hike :` Banyak karyawan yang resign jika kenaikan gaji mereka di bawah 10% dan karyawan yang memiliki kenaikan gaji diatas 10% lebih banyak memilih bertahan di perusahaan.
+#
+#### Time Related :
+#
+  25.  `Total Working Years :` Banyak karyawan yang resign dari pengalaman yang kurang dari 10 tahun bekerja.
+  26.  `Training Time Last Year :` Karyawan yang paling banyak resign jika pada mereka yang belum pernah sama sekali mendapatkan training.
+  27.  `Years at Company :` Banyak karyawan yang resign dari perusahaan yang kurang dari 10 tahun bekerja di perusahaan ini.
+  28.  `Years In Current Role : ` Banyak karyawan yang resign dengan posisi sekarang kurang dari 5 tahun.
+  29.  `Years Since Last Promotion :` Karyawan yang resign banyak dari yang belum dapat promosi, sedangkan karyawan yang sudah mendapatkan promosi cenderung memilih untuk bertahan di perusahaan.
+  30.  `Years With Current Manager :` Karyawan banyak yang resign yang belum pernah sama sekali bekerja dengan manager, sedangkan karyawan yang sudah pernah bekerja dengan manager cenderung untuk bertahan di perusahaan.
+  31.  `Num Companies Worked : ` Karyawan yang bekerja dari perusahaan sebelumnya ada dari yang fresh graduate sampai dengan sudah 9x bekerja di perusahaan yang berbeda, namun karyawan yang paling banyak resign ada pada yang bekerja sudah pada lebih dari 5 perusahaan.
 
-![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20Age%201.jpeg)
+## **Saran Exploratory Data Analyst**
 
-![a2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20Age%202.jpeg)
-
-![a3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20Age%203.jpeg)
-
-- Insight :
-  - Perusahaan memiliki karyawan yang berumur paling kecil 18 tahun dan paling besar ada pada 60 tahun.
-  - Jika dilihat dari hasil visualisasi Kernel Density Estimation (KDE) karyawan yang memilih resign paling banyak berada pada umur menjelang 30 tahun sampai dengan awal 30 tahun. Jika dilihat pada visualisasi bar plot banyak karyawan yang resign pada umur 29 tahun sampai dengan umur 31 tahun sedangkan untuk umur diatas 31 tahun banyak karyawan yang memilih untuk tetap tinggal di perusahaan.
-
-##### GENDER :
-
-![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20Gender%201.jpeg)
-
-![a2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20Gender%202.jpeg)
-
-![a3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20Gender%203.jpeg)
-
-- Insight :
-  - Total karyawan dengan gender male ada 882 orang dengan persentase 60% dan karyawan dengan gender female ada 588 dengan persentase 40%.
-  - Dari 60% gender male diperusahaan, ada 10,2% gender male resign dan dari 40% wanita gender female diperusahaan, ada 5,9% wanita memilih resign dari perusahaan.
-
-
-##### DISTANCE FROM HOME :
-
-![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20DistanceFromeHome%201.jpeg)
-
-![a2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20DistanceFromeHome%202.jpeg)
-
-![a3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20DistanceFromeHome%203.jpeg)
-
-- Insight :
-  - Jarak rumah karyawan dari kantor paling dekat ada pada 1 km dan paling jauh ada pada 29 km
-  - Dari jarak terdekat yaitu 1 km dari rumah karyawan ke kantor sampai dengan jarak terjauh yaitu 29km ada karyawan yang resign namun jika dilihat dari keseluruhan karyawan yang resign tertinggi ada pada jarak kurang dari 10 km dari kantor dan jarak diatas 10 km mulai menurun tingkat karyawan resignnya. Jika dibandingkan dengan karyawan tidak resign, paling banyak karyawan tidak resign ada pada jarak kurang dari 10km jarak rumah ke kantor dan sedangkan jarak rumah karyawan di atas 10 km tingkat karyawan tidak resign lebih rendah dari pada karyawan resign, yang artinya semakin jauh jarak lokasi rumah karyawan dengan kantor maka semakin besar peluang karyawan untuk resign.
+#### Basic Info :
+  -  Perusahaan perlu memfokuskan karyawan yang menuju umur 30 tahun berpendidikan bachelor baik itu laki-laki ataupun perempuan yang masih single terutama yang jarak rumahnya lebih 10 km dari kantor.
+#
+### Work Info :
+#
+  - Karyawan dari department Research & Development terutama yang bekerja sebagai Laboratory Technician perlu dievaluasi sistem jam kerjanya untuk menghindari karyawan sering bekerja overtime. terutama karyawan yang memiliki performa kerja yang bagus.
+  - Untuk Karyawan yang sudah berkontribusi lebih dari 10 tahun perusahaan dengan performa yang bagus dan bertanggung jawab maka perusahaan dapat memberikan saham nya kepada karyawan sebagai bentuk apresiasi loyalitas karyawan dalam berkontribusi kepada perusahaan.
+#
+#### Satiscfaction :
+#
+  - Perusahaan perlu mempertimbangkan kepuasan karyawan antara kerjaan dengan kehidupan pribadi, hal ini dapat dilakukan dengan perusahaan dapat menyewa psikolog dari konsultan agar karyawan yang burn out bekerja dapat berdiskusi dengan psikolog yang telah disediakan atau perusahaan dapat memberikan bonus tambahan kepada karyawan dengan pergi berlibur dengan rekan kerja di kantor pada saat weekend. 
+#
+#### Salary Related :
+#
+  - Perusahaan dapat mempertimbangkan untuk kenaikan gaji karyawan di atas 10% dan berikan bonus/ insentif kepada karyawan yang masih bekerja di kantor.
+#
+#### Time Related :
+#
+  - Perusahaan dapat meningkatkan pelatihan kepada karyawan minimal 1 tahun 1x terutama untuk karyawan yang baru bekerja diperusahaan ini, untuk karyawan yang memiliki perfoma bagus perusahaan dapat mempertimbangkan untuk menaikan jabatan baru minimal 1 tahun bekerja diperusahaan atau 1 tahun mereka bekerja dari posisi sekarang. 
