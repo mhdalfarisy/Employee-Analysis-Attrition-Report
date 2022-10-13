@@ -57,3 +57,8 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 |2|Medium|2|Good| | | | | | |
 |3|High|3|Better| | | | | | |
 |4|Very High|4|Best| | | | | | |
+
+## DATA ANALYST
+
+### BASIC INFO :
+![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Age%201.jpeg)
