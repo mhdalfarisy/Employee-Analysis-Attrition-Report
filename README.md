@@ -74,3 +74,23 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 - Insight :
   - Perusahaan memiliki karyawan yang berumur paling kecil 18 tahun dan paling besar ada pada 60 tahun.
   - Jika dilihat dari hasil visualisasi Kernel Density Estimation (KDE) karyawan yang memilih resign paling banyak berada pada umur menjelang 30 tahun sampai dengan awal 30 tahun. Jika dilihat pada visualisasi bar plot banyak karyawan yang resign pada umur 29 tahun sampai dengan umur 31 tahun sedangkan untuk umur diatas 31 tahun banyak karyawan yang memilih untuk tetap tinggal di perusahaan.
+
+##### GENDER :
+
+![b1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Gender%201.jpeg)
+
+![a2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Gender%202.jpeg)
+
+![a3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Gender%203.jpeg)
+
+- Insight :
+  - Total karyawan dengan gender male ada 882 orang dengan persentase 60% dan karyawan dengan gender female ada 588 dengan persentase 40%.
+  - Dari 60% gender male diperusahaan, ada 10,2% gender male resign dan dari 40% wanita gender female diperusahaan, ada 5,9% wanita memilih resign dari perusahaan.
+
+##### DICTANCE FROM HOME
+
+![c1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20DistanceFromHome%201.jpeg)
+
+![c2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%2DistanceFromHome%202.jpeg)
+
+![c3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20DistanceFromHome%203.jpeg)
