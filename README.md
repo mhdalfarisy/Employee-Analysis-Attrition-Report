@@ -101,10 +101,22 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 
 ![d1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Education_Category%201.jpeg)
 
-![d2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Education_Category%202.jpeg)
+![c2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Education_Category%202.jpeg)
 
-![d3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Education_Category%203.jpeg
+![c3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Education_Category%203.jpeg)
 
 - Insight :
   - Total karyawan yang memiliki baground pendidikan bachelor sebanyak 1.024 dengam persentase 69,7% , karyawan yang memiliki baground pendidikan master 398 dengan persentase 27,1% dan karyawan yang memiliki bagorund pendidikan Doctoer ada 48 karyawan 3,33%.
   - Total karyawan yang resign paling banyak dari baground pendidikan sarjana sebanyak 11,8%, sedangkan baground pendidikan yang tinggi dari pada bachelor yaitu seperti master memiliki persentase karyawan resign 3,9% dan doctor 0,3% memiliki persentase lebih rendah untuk resign.
+
+##### MARITAL STATUS
+
+![e1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20MaritalStatus%201.jpeg)
+
+![e2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20MaritalStatus%202.jpeg)
+
+![e3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20MaritalStatus%203.jpeg)
+
+- Insight :
+  - Karyawan yang berstatus single sebanyak 470 orang dengan total persentase 32%, sedangkan karyawan yang berstatus married lebih tinggi yaitu 673 orang dengan total persentase 45,8% dan karyawan yang memiliki status divorced memiliki jumlah terkecil yaitu 327 orang dengan persentase 22,2%
+  - Karyawan yang memiliki status single memiliki persentase tertinggi yang resign sebanyak 8,2%, persentase ini lebih tinggi dari pada karyawan dengan status married yaitu 5,7% dan karyawan dengan status divorced 2,2%.
