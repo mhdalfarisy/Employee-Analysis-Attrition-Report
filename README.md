@@ -59,6 +59,7 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 |4|Very High|4|Best| | | | | | |
 
 ## DATA ANALYST
-
+<hr>
 ### BASIC INFO :
+
 ![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Age%201.jpeg)
