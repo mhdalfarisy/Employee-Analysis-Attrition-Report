@@ -120,3 +120,16 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 - Insight :
   - Karyawan yang berstatus single sebanyak 470 orang dengan total persentase 32%, sedangkan karyawan yang berstatus married lebih tinggi yaitu 673 orang dengan total persentase 45,8% dan karyawan yang memiliki status divorced memiliki jumlah terkecil yaitu 327 orang dengan persentase 22,2%
   - Karyawan yang memiliki status single memiliki persentase tertinggi yang resign sebanyak 8,2%, persentase ini lebih tinggi dari pada karyawan dengan status married yaitu 5,7% dan karyawan dengan status divorced 2,2%.
+
+
+### WORK INFO :
+
+![f1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Department%201.jpeg)
+
+![f2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Department%202.jpeg)
+
+![f3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Department%203.jpeg)
+
+- Insight :
+  - Total karyawan dari departement sales ada 446 orang dengan persentase 30,3%, karyawan yang berasal dari department Research & Development 961 orang dengan persentase 65,4% dan dari department Human Resources sebanyak 63 orang dengan persentase 4,3%.
+  - Karyawan yang paling banyak resign berasal dari departement Research & Development dengan persentase 9,0%, sedangkan karyawan yang resign dari department sales ada 6,3% dan karyawan yang resign dari department human resources ada 0,8%.
