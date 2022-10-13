@@ -63,5 +63,9 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 
 ### BASIC INFO :
 
-![cover](https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/cover.JPG)
+
 ![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Age%201.jpeg)
+
+![a2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Age%202.jpeg)
+
+![a3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Age%203.jpeg)
