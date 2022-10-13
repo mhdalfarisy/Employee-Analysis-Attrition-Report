@@ -74,3 +74,28 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 - Insight :
   - Perusahaan memiliki karyawan yang berumur paling kecil 18 tahun dan paling besar ada pada 60 tahun.
   - Jika dilihat dari hasil visualisasi Kernel Density Estimation (KDE) karyawan yang memilih resign paling banyak berada pada umur menjelang 30 tahun sampai dengan awal 30 tahun. Jika dilihat pada visualisasi bar plot banyak karyawan yang resign pada umur 29 tahun sampai dengan umur 31 tahun sedangkan untuk umur diatas 31 tahun banyak karyawan yang memilih untuk tetap tinggal di perusahaan.
+
+##### GENDER :
+
+![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20Gender%201.jpeg)
+
+![a2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20Gender%202.jpeg)
+
+![a3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20Gender%203.jpeg)
+
+- Insight :
+  - Total karyawan dengan gender male ada 882 orang dengan persentase 60% dan karyawan dengan gender female ada 588 dengan persentase 40%.
+  - Dari 60% gender male diperusahaan, ada 10,2% gender male resign dan dari 40% wanita gender female diperusahaan, ada 5,9% wanita memilih resign dari perusahaan.
+
+
+##### DISTANCE FROM HOME :
+
+![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20DistanceFromeHome%201.jpeg)
+
+![a2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20DistanceFromeHome%202.jpeg)
+
+![a3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Visualisasi/Visualisasi%20DistanceFromeHome%203.jpeg)
+
+- Insight :
+  - Jarak rumah karyawan dari kantor paling dekat ada pada 1 km dan paling jauh ada pada 29 km
+  - Dari jarak terdekat yaitu 1 km dari rumah karyawan ke kantor sampai dengan jarak terjauh yaitu 29km ada karyawan yang resign namun jika dilihat dari keseluruhan karyawan yang resign tertinggi ada pada jarak kurang dari 10 km dari kantor dan jarak diatas 10 km mulai menurun tingkat karyawan resignnya. Jika dibandingkan dengan karyawan tidak resign, paling banyak karyawan tidak resign ada pada jarak kurang dari 10km jarak rumah ke kantor dan sedangkan jarak rumah karyawan di atas 10 km tingkat karyawan tidak resign lebih rendah dari pada karyawan resign, yang artinya semakin jauh jarak lokasi rumah karyawan dengan kantor maka semakin besar peluang karyawan untuk resign.
