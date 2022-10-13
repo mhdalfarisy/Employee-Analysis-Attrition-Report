@@ -93,8 +93,18 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 
 ![c2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20DistanceFromHome%202.jpeg)
 
-![c3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20DistanceFromHome%203.jpeg)
-
 - Insight :
   - Jarak rumah karyawan dari kantor paling dekat ada pada 1 km dan paling jauh ada pada 29 km
   - Dari jarak terdekat yaitu 1 km dari rumah karyawan ke kantor sampai dengan jarak terjauh yaitu 29km ada karyawan yang resign namun jika dilihat dari keseluruhan karyawan yang resign tertinggi ada pada jarak kurang dari 10 km dari kantor dan jarak diatas 10 km mulai menurun tingkat karyawan resignnya. Jika dibandingkan dengan karyawan tidak resign, paling banyak karyawan tidak resign ada pada jarak kurang dari 10km jarak rumah ke kantor dan sedangkan jarak rumah karyawan di atas 10 km tingkat karyawan tidak resign lebih rendah dari pada karyawan resign, yang artinya semakin jauh jarak lokasi rumah karyawan dengan kantor maka semakin besar peluang karyawan untuk resign.
+
+##### EDUCATION
+
+![d1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Education_Category%201.jpeg)
+
+![d2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Education_Category%202.jpeg)
+
+![d3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Education_Category%203.jpeg
+
+- Insight :
+  - Total karyawan yang memiliki baground pendidikan bachelor sebanyak 1.024 dengam persentase 69,7% , karyawan yang memiliki baground pendidikan master 398 dengan persentase 27,1% dan karyawan yang memiliki bagorund pendidikan Doctoer ada 48 karyawan 3,33%.
+  - Total karyawan yang resign paling banyak dari baground pendidikan sarjana sebanyak 11,8%, sedangkan baground pendidikan yang tinggi dari pada bachelor yaitu seperti master memiliki persentase karyawan resign 3,9% dan doctor 0,3% memiliki persentase lebih rendah untuk resign.
