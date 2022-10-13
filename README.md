@@ -145,11 +145,11 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
   
  ##### OVER TIME
 
-![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTIme%201.jpeg)
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTime%201.jpeg)
 
-![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTIme%202.jpeg)
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTime%201.jpeg)
 
-![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTIme%203.jpeg)
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTime%201.jpeg)
   
 - Insight :
   - Dari 1470 karyawan diperusahaan, ada 416 karyawan yang bekerja over time atau setara 28,3% dan ada 71,7% karyawan yang bekerja tidak overtime.
