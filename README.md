@@ -91,6 +91,10 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 
 ![c1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20DistanceFromHome%201.jpeg)
 
-![c2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%2DistanceFromHome%202.jpeg)
+![c2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20DistanceFromHome%202.jpeg)
 
 ![c3](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20DistanceFromHome%203.jpeg)
+
+- Insight :
+  - Jarak rumah karyawan dari kantor paling dekat ada pada 1 km dan paling jauh ada pada 29 km
+  - Dari jarak terdekat yaitu 1 km dari rumah karyawan ke kantor sampai dengan jarak terjauh yaitu 29km ada karyawan yang resign namun jika dilihat dari keseluruhan karyawan yang resign tertinggi ada pada jarak kurang dari 10 km dari kantor dan jarak diatas 10 km mulai menurun tingkat karyawan resignnya. Jika dibandingkan dengan karyawan tidak resign, paling banyak karyawan tidak resign ada pada jarak kurang dari 10km jarak rumah ke kantor dan sedangkan jarak rumah karyawan di atas 10 km tingkat karyawan tidak resign lebih rendah dari pada karyawan resign, yang artinya semakin jauh jarak lokasi rumah karyawan dengan kantor maka semakin besar peluang karyawan untuk resign.
