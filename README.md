@@ -124,6 +124,8 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 
 ### WORK INFO :
 
+##### DEPARTMENT
+
 ![f1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Department%201.jpeg)
 
 ![f2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20Department%202.jpeg)
@@ -133,3 +135,32 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 - Insight :
   - Total karyawan dari departement sales ada 446 orang dengan persentase 30,3%, karyawan yang berasal dari department Research & Development 961 orang dengan persentase 65,4% dan dari department Human Resources sebanyak 63 orang dengan persentase 4,3%.
   - Karyawan yang paling banyak resign berasal dari departement Research & Development dengan persentase 9,0%, sedangkan karyawan yang resign dari department sales ada 6,3% dan karyawan yang resign dari department human resources ada 0,8%.
+  
+##### JOB ROLE
+
+![f2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20JobRole%201.jpeg)
+  
+  - Insight :
+  - Dari seluruh karyawan yang paling banyak resign adalah karyawan dengan job role laboratory technician dengan persentase 4,2% yang resign.
+  
+ ##### OVER TIME
+
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTIme%201.jpeg)
+
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTIme%202.jpeg)
+
+![g2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20OverTIme%203.jpeg)
+  
+- Insight :
+  - Dari 1470 karyawan diperusahaan, ada 416 karyawan yang bekerja over time atau setara 28,3% dan ada 71,7% karyawan yang bekerja tidak overtime.
+  - Banyak karyawan yang bekerja overtime memilih resign dengan persentase 8,6%, persentase ini lebih tinggi dari pada karyawan yang resign tapi tidak bekerja overtime yaitu 7,5%.
+  
+##### BUSINESS TRAVEL
+
+![h1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20BusinessTravel%201.jpeg)
+
+![h2](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/a/Visualisasi%20BusinessTravel%202.jpeg)
+
+  
+- Insight :
+  - Karyawan yang banyak resign paling banyak berasal dari karyawan yang jarang melakukan perjalan dinas 156 orang dengan persentase 10,6%, karyawan yang sering melakukan perjalanan dinas yang resign sebanyak 69 orang dengan persetase 4,7% dan karyawan yang tidak pernah melakukan perjalan dinas yang resign ada 12 orang dengan persentase 0,8%.
