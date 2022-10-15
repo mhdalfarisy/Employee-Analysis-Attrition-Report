@@ -11,8 +11,9 @@
 - [Columns Satisfaction](#columns-satisfaction)
 - [Data Analyst](#data-analyst)
   - [Kesimpulan Exploratory Data Analyst](#kesimpulan-exploratory-data-analyst)
-  -[Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
--[Visualization Data Employee Analysis Attrition Report](#visualization-data-employee-analysis-attrition-report)
+  - [Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
+  - [Visualization Data Employee Analysis Attrition Report](#visualization-data-employee-analysis-attrition-report)
+- [Others Data Visualization Report](#others-data-visualization-report)
 
 ### **Problem Statement**
 Perusahaan memiliki 1.470 karyawan, ada sekitar 243 karyawan yang memutuskan resign dengan persentase 16% dan 1.233 karyawan masih bertahan di kantor dengan persentase 84%. Perusahaan perlu melakukan evaluasi terhadap karyawan yang resign terutama Departement Sumber Daya Manusia terutama bagian Human Resource Development sebagai evaluasi kedepan dalam mempertahankan karyawan untuk tidak resign dari kantor saat ini. Jika hal ini dibiarkan maka akan mengganggu produktivitas perusahaan terutama dalam menjalankan bisnisnya.
@@ -124,12 +125,12 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 ### Time Related :
   - Perusahaan dapat meningkatkan pelatihan kepada karyawan minimal 1 tahun 1x terutama untuk karyawan yang baru bekerja diperusahaan ini, untuk karyawan yang memiliki perfoma bagus perusahaan dapat mempertimbangkan untuk menaikan jabatan baru minimal 1 tahun bekerja diperusahaan atau 1 tahun mereka bekerja dari posisi sekarang. 
 
-**✨ Visualization Data Employee Analysis Attrition Report** <br>
+### **Visualization Data Employee Analysis Attrition Report**
 <br>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank"><img height="500" src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"></a></code>
 <br>
 
-**✨ Other Data Visualization Report** <br>
+### **Others Data Visualization Report**
 <br>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="300" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
 <br>
