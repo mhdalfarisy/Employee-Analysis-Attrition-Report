@@ -2,6 +2,17 @@
 
 ![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg)
 
+## Table of Contents
+
+- [Problem Statement](#problem-statement)
+- [Objectives](#objectives)
+- [Analytical Approach](#analytical-approach)
+- [Definisi Kolom](#definisi-kolom)
+- [Columns Satisfaction](#columns-satisfaction)
+- [Data Analyst](#data-analyst)
+  - [Kesimpulan Exploratory Data Analyst](#kesimpulan-exploratory-data-analyst)
+  -[Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
+
 ### **Problem Statement**
 Perusahaan memiliki 1.470 karyawan, ada sekitar 243 karyawan yang memutuskan resign dengan persentase 16% dan 1.233 karyawan masih bertahan di kantor dengan persentase 84%. Perusahaan perlu melakukan evaluasi terhadap karyawan yang resign terutama Departement Sumber Daya Manusia terutama bagian Human Resource Development sebagai evaluasi kedepan dalam mempertahankan karyawan untuk tidak resign dari kantor saat ini. Jika hal ini dibiarkan maka akan mengganggu produktivitas perusahaan terutama dalam menjalankan bisnisnya.
 
@@ -14,6 +25,7 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
   - Melakukan Visualisasi data dari setiap analisa untuk mendapatkan gambaran secara visual dari hasil Exploratory Data Analyst (Tableau).
   - Membuat model machine learning untuk mengetahui faktor apa yang paling berpengaruh terhadap keputusan karyawan untuk resign (Jupyter NoteBook).
 
+### **Definisi Kolom**
 | **Nama Kolom** | **Keterangan Kolom** |
 | --- | --- |
 |Age|Umur Karyawan yang bekerja di perusahaan|
