@@ -127,7 +127,7 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 
 ### **Visualization Data Employee Analysis Attrition Report**
 <br>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank"><img height="500" src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(2).png"></a></code>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank"><img height="3000" " src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(2).png"></a></code>
 <br>
 
 ### **Others Data Visualization Report**
