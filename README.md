@@ -12,6 +12,7 @@
 - [Data Analyst](#data-analyst)
   - [Kesimpulan Exploratory Data Analyst](#kesimpulan-exploratory-data-analyst)
   -[Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
+-[Visualization Data Employee Analysis Attrition Report](#visualization-data-employee-analysis-attrition-report)
 
 ### **Problem Statement**
 Perusahaan memiliki 1.470 karyawan, ada sekitar 243 karyawan yang memutuskan resign dengan persentase 16% dan 1.233 karyawan masih bertahan di kantor dengan persentase 84%. Perusahaan perlu melakukan evaluasi terhadap karyawan yang resign terutama Departement Sumber Daya Manusia terutama bagian Human Resource Development sebagai evaluasi kedepan dalam mempertahankan karyawan untuk tidak resign dari kantor saat ini. Jika hal ini dibiarkan maka akan mengganggu produktivitas perusahaan terutama dalam menjalankan bisnisnya.
