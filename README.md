@@ -14,6 +14,7 @@
   - [Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
   - [Visualization Data Employee Analysis Attrition Report](#visualization-data-employee-analysis-attrition-report)
 - [Others Data Visualization Report](#others-data-visualization-report)
+- [Others Project](#others-project)
 
 ### **Problem Statement**
 Perusahaan memiliki 1.470 karyawan, ada sekitar 243 karyawan yang memutuskan resign dengan persentase 16% dan 1.233 karyawan masih bertahan di kantor dengan persentase 84%. Perusahaan perlu melakukan evaluasi terhadap karyawan yang resign terutama Departement Sumber Daya Manusia terutama bagian Human Resource Development sebagai evaluasi kedepan dalam mempertahankan karyawan untuk tidak resign dari kantor saat ini. Jika hal ini dibiarkan maka akan mengganggu produktivitas perusahaan terutama dalam menjalankan bisnisnya.
@@ -130,9 +131,10 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 
 <br>
 
-# **OTHERS PROJECT :**
+---
 
-<br>
+# **OTHERS PROJECT**
+
 <table>
 <tbody>
  <tr>
@@ -158,7 +160,7 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 <tbody>
  <tr>
  
-<h1 align="left">Machine Learning</h1>
+<h1 align="left">Machine Learning - Supervised</h1>
 
 <td align="left" width="20%">
 <span><b><left>California House Price</center></b></span> 
@@ -186,6 +188,23 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 <img height=150px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/advance-career.jpg"> 
 </td>
 
+</tbody>
+</table>
+ <tr>
+  
+<h1 align="left">Machine Learning - Unsupervised</h1>  
+
+<table>
+<tbody>
+ <tr>  
+  
+<!-- <tr> -->
+<td align="left" width="25%">
+<span><b><left>Segmentation Customer Mall</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/Segmentation-Customer-Mall" target="_blank">
+<img height=200px src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg"> 
+</td>
+ 
 </tbody>
 </table>
  <tr>
