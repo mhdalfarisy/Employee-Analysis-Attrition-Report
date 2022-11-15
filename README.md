@@ -13,7 +13,6 @@
   - [Kesimpulan Exploratory Data Analyst](#kesimpulan-exploratory-data-analyst)
   - [Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
   - [Visualization Data Employee Analysis Attrition Report](#visualization-data-employee-analysis-attrition-report)
-- [Others Data Visualization Report](#others-data-visualization-report)
 - [Others Project](#others-project)
 
 ### **Problem Statement**
@@ -133,6 +132,8 @@ Hasil analisa ini akan memberikan insight dan saran kepada Departement Sumber Da
 
 ---
 
+# Others Project  
+  
 **My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
 
 **Tech stacks currently using** <br>
